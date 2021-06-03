@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The model of Presbytery· Wherein the supreme power resides in the high and mighty annual assembly, which is composed of two preaching elders or ministers, and one lay-elder out of every Presbytery; one commissioner from every corporation, university and colledge; ...</title>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B26908</idno><idno type="EEBO-CITATION">99883143</idno>
+  <idno type="VID">201318</idno>
+  <idno type="EEBO-PROQUEST">2248523626</idno>
+  
+            <idno type="STC">Wing M2318</idno>
+            <idno type="STC">Interim Tract Supplement Guide 816.m.22[43]</idno>
+            <idno type="STC">Interim Tract Supplement Guide T.88*[9]</idno>
+            <idno type="STC">ESTC R19234</idno>
+            <idno type="PROQUEST">ocm99883143</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99883143e"/>
+            <note>(EEBO-TCP ; phase 2, no. B26908)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 201318)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; B2:1[54]; C30:1[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The model of Presbytery· Wherein the supreme power resides in the high and mighty annual assembly, which is composed of two preaching elders or ministers, and one lay-elder out of every Presbytery; one commissioner from every corporation, university and colledge; ...</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Jonathan Edwin, at the Three Roses in Ludgate-Street,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1677.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>Printed in three columns.</note>
+                  <note>With marginal notes.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Catholic Church --  Infallibility --  Early works to 1800.</term>
+               <term type="topical_term">Presbyterianism --  Controversial literature --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles II, 1660-1685 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:201318:1"/>
+            <head>THE MODEL of PRESBYTERY.</head>
+            <p>
+               <hi>Wherein</hi>
+            </p>
+            <p>THE <hi>SUPREME POWER</hi> resides in the <hi>HIGH</hi> and <hi>MIGHTY</hi> Annual <hi>ASSEMBLY,</hi> which is composed of two Preaching Elders or Ministers, and one Lay-Elder out of every <hi>Presby<g ref="char:EOLhyphen"/>tery;</hi> one Commissioner from every Corporation, University and Colledge; who being meer Laicks, Shop-keepers, Artificers, and Mechanicks have hereby a full power to define and decide the most cu<g ref="char:EOLhyphen"/>rious Points of Divinity, which it is impossible for want of Learning they should understand.</p>
+            <ab rend="small" type="commentary">This and much more was actually lone in <hi>Scotland</hi> when this Govern<g ref="char:EOLhyphen"/>ment was by force of Armes set up, is may be proved from the Authen<g ref="char:EOLhyphen"/>tique Records of the State, and by the Records of the <hi>Presbytery;</hi> as also by <hi>Knox</hi> his History of the Reforma<g ref="char:EOLhyphen"/>tion of <hi>Scotland,</hi> the Preachments of <hi>Meluil Gibson, &amp;c.</hi>
+            </ab>
+            <p>The <hi>King</hi> or his Representative, who has onely one Vote, and the privilege to be equal to the meanest Lay-man of the Holy Assembly, and is debarred from a Negative Voice: and by consequence is in<g ref="char:EOLhyphen"/>ferior to the Moderator or President, who is alwayes to be a Minister; by which <hi>proviso</hi> the <hi>King</hi> is excluded from a possibility of presiding therein.</p>
+            <ab rend="small" type="commentary">King <hi>James</hi> that Miracle of Learn<g ref="char:EOLhyphen"/>ing, Piety and Wisdome, complaining of the Insolences of these People, the Chancellor frankly told him, The fault was wholly his own; for if he would but leave them to themselves, the People would universally rise up a<g ref="char:EOLhyphen"/>gainst them, and stone them. To which the King reply'd, <hi>My Lord, your Ad<g ref="char:EOLhyphen"/>vice is shrew'd Policy, but your Counsel is not good Piety: I know it would prove so, but I am to be a Nurse to the Church.</hi> And how well they requited his pious Indulgence, his Son and Successor and our Martyred Sovereign can tell us, whose Blood like <hi>Abel</hi>'s yet speak<g ref="char:EOLhyphen"/>eth.</ab>
+            <p>This ASSEMBLY is called together by their own Authority, derived (as they say) from <hi>CHRIST:</hi> without respecting the <hi>King</hi>'s Consent, Writ, Summons, or Authority: And at the end of every Session, the President declares and appoints the Time and Place of the next GENERAL ASSEMBLY.</p>
+            <ab rend="small" type="commentary">At the Close of the Assemblies Session, Commissioners of the best Heads, and greatest Politicians are chosen to be the Virtual Assembly, who are to reside in the Capital City of the Kingdom, and who are to over-look the Actions of King, Council and <hi>Parliament,</hi> that no detriment happen by them to the Church; and to prepare matters for the next General Assembly, which if there be urgent occasion may be oftner than once in a Year; and in his Junto is hatched all Dis<g ref="char:EOLhyphen"/>obedience, Treason, and Re<g ref="char:EOLhyphen"/>bellion.</ab>
+            <p>By which Procedure, they declare themselves free from all Obedience, Duty and Subjection to the <hi>King;</hi> and lay the Foundation of their own <hi>Supreme Spiritual Democracy, Unbounded, Absolute, Tyrannical</hi> and <hi>Abitrary Dominion.</hi>
+            </p>
+            <p>For,</p>
+            <p>To the Decrees, Definitions, Determinations, Final Sentence and Jugement of this <hi>Spiritual Court,</hi> enacted by plurality of Voices, (and from whose Judicature there lies no Appeal) are subject</p>
+            <p>At present the Nation or Kingdom where they are established: and the rest of the World so soon as they can shake off the Yoke of <hi>Antichristian</hi> Monarchy and Prelacy, and be able to exalt the Scepter of <hi>CHRIST,</hi> by <hi>Democracy</hi> in the State, and the <hi>Linsy-Woolsey Aerian Parity</hi> of Lay-Ecclesiastical Goverment in the Church.</p>
+            <p>The Moderator or President of the great Assembly is in reality the Annual King and Supreme Judge; and the Virtual Assembly of Commissioners are the Privy Council, according to whose Directions all things must be manag'd, to whom all the rest of the Clergy are absolute Slaves.</p>
+            <list>
+               <head>
+                  <list>
+                     <item>Usurpation upon the Rights, Prerogative and Power of the Prince and People.</item>
+                     <item>Usurpation upon the <hi>Presbyters</hi> and Lay-Eld<g ref="char:EOLhyphen"/>ers by deceit and hypo<g ref="char:EOLhyphen"/>crisie.</item>
+                  </list>
+               </head>
+               <label>Indirectly, or in order to Spirituals.</label>
+               <item>
+                  <p>First, The King's Majesty, the Queen, the Regent du<g ref="char:EOLhyphen"/>ring the King's Minority, the Royal Family; any and all of which may be Censured, Excommunicated, and depo<g ref="char:EOLhyphen"/>sed from the Government, Possession, and Succession to the Crown, for persecuting, that is opposing them, who are the Saints, the People of God: for Idolatry, or any other Crimes against the Laws of God: and may also be punished, even to Imprisonment and loss of Life:</p>
+                  <p>All the Nobility, Councils, Parliaments, great Ministers of State, Judges, and Inferior Magistrates, Gentlemen, and the whole Populace, of what Age, Degree, Sex, Condition, or Quality soever, who are all bound to yield Obedience to their Discipline, Faith, Doctrine, and Opinions; other<g ref="char:EOLhyphen"/>wise, they may be Censured, Excommunicated and depri<g ref="char:EOLunhyphen"/>ved of their Liberties, Estates and Lives, and whatever they do possess. <note place="margin" type="runSum">Partiality.</note> For these Holy Men of the Assembly are no respectors of Persons, though they are of Presents and Flatteries, by which onely means they may be gained to over-look the failings of such great Men, as for their own Interest, favour and support them; <note place="margin" type="runSum">Revenge.</note> and for whom they would readily employ all their Unlimited Spiritual Power, to revenge them of their private Injuries and Enemies: all which shall be said to be against GOD, if against any one of their great Patrons or Friends.</p>
+                  <p>Secondly, All Laws, Acts of Parliament, Royal-Proclamations, of which they pre<g ref="char:EOLhyphen"/>tend to be the <hi>Supreme</hi> and onely competent Judges, whether they are for God's Glory? And if they say no: <note place="margin" type="runSum"> Disobedience.</note> The People are bound to disobey them; for they must obey God rather than Man. The Inferior <hi>Presbyters</hi> are obliged to preach this Doctrine to the People in all their respective Parishes, and to animate them to put this Duty of Diso<g ref="char:EOLhyphen"/>bedience to the King, Parliament, Laws, and Proclamations, in Practice, under pain of being delivered up to the Devil by Excommunication. <note place="margin" type="runSum">Rebellion.</note> See here Rebellion and Mis<g ref="char:EOLhyphen"/>chief framed by a Law: <hi>Psal.</hi> 94.20. A Law superior to the Fundamental Laws of the Nation, Arbitrary, Unlimited, and from which there is no Appeal.</p>
+                  <p>Thirdly, All Actions Civil and Political; Contracts, Bargains, Sales, Leases, Inden<g ref="char:EOLhyphen"/>tures; so that an Estate or just Debt upon the specialty recovered by due process of Law; if it be suggested that there was scandal by suspicion of forgery, bribery, or subornation in the Case, shall come before them; <note place="margin" type="runSum">Injustice and Op<g ref="char:EOLhyphen"/>pression.</note> and they will undertake to determine it contrary to the Rule of the Laws, in favour of a pretending oppressed Saint, who humbly crouches and applyes himself by Appeal, to the <hi>Supreme Sovereign Lords of Presbytery.</hi> All Forreign Leagues, and Alliances, Matches of the <hi>Royal Family,</hi> and State Affairs, Trade and Manufactures, Peace and War, abroad or at Home, with which for Disobedience to them, <note place="margin" type="runSum">Treason.</note> they will not onely threaten their lawful Prince, but execute it against him and all his Loyal Adherents, as malignant and evil Counsellours; and by crying, <hi>The Sword of the Lord and of Gideon,</hi> and proclaiming them Enemies to God, perswade the Unruly Multitude that it is not onely lawful, but necessary.</p>
+                  <p>Fourthly, All Punishments which (when they have decreed) the King and Civil Magi<g ref="char:EOLhyphen"/>strates are bound to execute. <note place="margin" type="runSum">Cruelty.</note> Whether they be Corporal, by Imprisonment, Feeding the Criminal with Bread and Water onely, Stool of Repentance, Pillory at the Church door, cutting off half the Hair, forbidding all Commerce, Banishment, loss of Life: Or secondly, Spiritual; by Defamation, and irrecoverable loss of the inestimable Jewel of Reputation, for any supposed Crime under the Notion of Scandal: Or thirdly, Pecuni<g ref="char:EOLhyphen"/>ary, by confiscation of all or any part of the Offenders Estate, Goods and Chattels; which are usually for a small composition made over to the Prosecutor the mortal Ene<g ref="char:EOLhyphen"/>my of the Accused. No sin or scandal without a fine, if the Person be of ability, and no Pardon without paying it down; nay, they will deny <hi>Baptism</hi> to the poor Infants, the Children of Offenders, till they have satisfied the Censures and Penalties imposed by them. And all this they will execute for Disobedience to any the meanest and most indifferent thing commanded by them, which by such command becomes absolutely necessary to Salvation.</p>
+               </item>
+               <label>Directly.</label>
+               <item>
+                  <p>First, All Spiritual-Lay-Persons, which are of three prin<g ref="char:EOLhyphen"/>cipal Ranks, for I do not understand what their Doctors, which make the fourth, signifie: These are,</p>
+                  <p n="1">1<seg rend="sup">st.</seg> The <hi>Presbyteries,</hi> into which all the Kingdom is divi<g ref="char:EOLhyphen"/>ded, as they in their Prudence think fit, and which consist of the Parochial Ministers, and a Lay-Elder for each Parish: which Lay-Elders are onely Annual Officers, who by this de<g ref="char:EOLhyphen"/>vice are kept in subjection to the <hi>Presbyters</hi> who are in power for Life; so that they dare not vote against them for fear of their power when they come to be out of Office. By this Artifice the People have the Name and Imagination of some Power (enough to delude them with the shadow of Govern<g ref="char:EOLhyphen"/>ing, or to enable them to strut and domineer for a Year over their Neighbours) but the <hi>Presbyters</hi> possess the Soul, the Life and Substance of Authority; and by making an example of a little pert ignorant Lay-Elder, who has exceeded his limits, they can at pleasure strike an Eternal terror into all his Successors.</p>
+                  <p n="2">2<seg rend="sup">dly</seg>, <note place="margin" type="runSum">Tyranny.</note> The Parochial Session; composed of one or more Ministers, Lay-Elders and Deacons, or Over-seers of the Poor; of which a Teaching-Elder or Minister is the Mo<g ref="char:EOLhyphen"/>derator. Over all which the Members of the Assembly and Leading-Active <hi>Presbyters</hi> Lord it far more than the <hi>Pope,</hi> or any Bishop over the most inferior Clergy. For they are bound to preach their Doctrines or Decrees, and Opinions: and cannot by any Law be so securely instated; <note place="margin" type="runSum">Coveteousness.</note> but if any one of them have a good Benefice, to which a busie great Minister has an Eye, he shall with ease procure a Complaint against him, That he does not edifie his Parish, and by that means shall possess himself of it, and turn him out to his small edification, to edifie some small and poor Cure, <note place="margin" type="runSum">Oppression.</note> for with them Souls hold a proportion of necessity of a greater or lesser Edification, according to the Quality and Richness of the Living.</p>
+                  <p n="3">3<seg rend="sup">dly</seg>, <note place="margin" type="runSum">Innovation.</note> All those who are called <hi>Expectants;</hi> a new Order of <hi>Presbyterian</hi> Predicants with<g ref="char:EOLhyphen"/>out Orders; who yet may do all Offices of Ministers, except Baptizing, and giving the Sacrament.</p>
+                  <p>Secondly, <note place="margin" type="runSum">Absolute and unli<g ref="char:EOLhyphen"/>mited Supremacy.</note> All Spiritual Places and Affairs, Ordination, Government, Faith, Doctrine, Opinion, Manners, and Divine Worship, which they pretend to determine beyond Appeal.</p>
+                  <p>Thirdly, All Church Censures, Appeals, Excommunication of all Persons, who will not obey the Scepter of <hi>Christ</hi> in their Hands: The King is not excepted or exempted, but must submit to the Great Council, nay to the <hi>Presbytery</hi> in which he is; and to his own Parochial Minister, otherwise he runs the hazard of Excommunication: Which they exercise prin<g ref="char:EOLhyphen"/>cipally for, 1<seg rend="sup">st</seg>, <hi>Heresie,</hi> which is all dissenting from them in Faith, Doctrine, Opinion, or Manners: 2<seg rend="sup">dly</seg>, <hi>Scandal,</hi> or Suspicion of Crimes; whereby the Malicious and Envious ne<g ref="char:EOLhyphen"/>ver want suggestions, temptations and opportunities, to revenge themselves of their Ene<g ref="char:EOLhyphen"/>mies. <note place="margin" type="runSum">Want of Charity.</note> And the most Virtuous Persons of differring Sexes, cannot converse together in private, but they may be accused of scandal of Adultery, or Fornication; be imprisoned, fed with Bread and Water, all proof sought against them, and be publickly forced some<g ref="char:EOLhyphen"/>times by Oaths, to clear themselves; and in the face of their Parish to crave pardon for a Scandal: and if ever after they be known to maintain any private correspondency, they shall be juged guilty of the Crimes, and treated accordingly; To the perpetual ruine of all innocent and most divertive and it may be religious Friendships; <note place="margin" type="runSum">Peace and Ʋni<g ref="char:EOLhyphen"/>ty banished.</note> of the peace of all private Families; of the Unity of all Societies, and the Extirpation of that true Chri<g ref="char:EOLhyphen"/>stian Charity, of private Admonitions which covers a multitude of faults; to the breed<g ref="char:EOLhyphen"/>ing jealousies and discords betwixt the dearest Relations and nearest Friends; defaming the Innocent, and putting indelible stains of infamy upon the strictest Vertue; which is not capable to secure the most prudent and reserved of both Sexes, from scandal of suspi<g ref="char:EOLhyphen"/>cious Envy, and inventing malice of Revenge: and in a word, to the banishing all true Religion, (and introducing Hypocrisie) and all love of Religion, by these Rigours and Austerities, out of the minds of Men, <note place="margin" type="runSum">Slavery.</note> and making them Slaves, and to serve GOD, as the <hi>Indians</hi> do the Devil, for fear he should do them injury by these his great Servants.</p>
+               </item>
+            </list>
+            <p>From all which it appears, That the Government of <hi>Presbytery</hi> is founded upon Usurpation, maintained, supported, and continued by Treason and Rebellion, exercised with the most Arbitrary and highest Tyranny and Oppression of all Degrees and Conditions of Men, in all their Rights, Privileges and Properties, both Civil and Religious; and the End of it is the Ruine of <hi>Monarchy,</hi> the setting up of <hi>Democracy,</hi> and establishing the most insupportable Slavery here; and unavoidable Damnation hereafter: For they that resist Lawful Authorities shall receive to themselves (without Repentance and Amendment) Damnation; From which and <hi>Presbytery, Libera nos Domine.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>LONDON, <hi>Printed for</hi> Jonathan Edwin, <hi>at the</hi> Three Roses <hi>in</hi> Ludgate-<hi>Street.</hi> 1677.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
